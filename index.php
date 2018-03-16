@@ -42,7 +42,7 @@
  $units = 'metric'; 
  $lang = 'ru'; 
  $cnt = 5; 
- $appid = 'fe6b0af54c9ccfaeedcdba56830b2da8'; 
+ $appid = 'b603413be60f38c43d99fca02b6bfa15'; 
  $hoursplus = 4; 
  
  header('Content-Type: text/html; charset=utf-8'); 
